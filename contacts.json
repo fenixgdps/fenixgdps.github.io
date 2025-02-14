@@ -1,0 +1,122 @@
+{
+    "contacts": [
+        {
+            "name": "ZNXXT",
+            "about": "Является старшим модератором приватного сервера. Оценивает ваши уровни, давая как оценку, так и критику",
+            "pfp": "znxxt",
+            "contacts": [
+                {
+                    "text": "Discord: zoontikus303_"
+                }
+            ]
+        },
+        {
+            "name": "Classik",
+            "about": "Классик выступает в качестве ещё одного старшего модератора нашего приватного сервера",
+            "pfp": "classik",
+            "contacts": [
+                {
+                    "text": "Discord: justclassik"
+                }
+            ]
+        },
+        {
+            "name": "Fenix",
+            "about": "Феникс является достаточно известным ютубером, снимающим видео по Geometry Dash, а также создателем и владельцем данного сервера. Играет в ваши уровни, делает для контент, радует новостями в телеграм канале",
+            "pfp": "fenix",
+            "contacts": [
+                {
+                    "text": "Discord: fenixel7"
+                },
+                {
+                    "text": "YouTube",
+                    "url": "https://youtube.com/@fenix_channel?si=v47gjIVSxV7zjsnq"
+                },
+                {
+                    "text": "Twitch",
+                    "url": "https://www.twitch.tv/fenix_channel7"
+                }
+            ]
+        },
+        {
+            "name": "DenickaTopUser",
+            "about": "Дениска один из немногих младших модераторов приватного сервера",
+            "pfp": "denicka",
+            "contacts": [
+                {
+                    "text": "Discord: denickatopuser0904"
+                }
+            ]
+        },
+        {
+            "name": "Gleb141",
+            "about": "Кто это?",
+            "pfp": "gleb",
+            "contacts": [
+                {
+                    "text": "Discord: gleb141"
+                }
+            ]
+        },
+        {
+            "name": "Voki",
+            "about": "Мало того, что Воки является старшим модератором гдпса, так он ещё и является топ 1 всего сервера по количеству креатор поинтов с огромным отрывом от второго и тем более от третьего мест, а его уровни являются одними из самых популярных",
+            "pfp": "voki",
+            "contacts": [
+                {
+                    "text": "Discord: voki1"
+                }
+            ]
+        },
+        {
+            "name": "Charlotte",
+            "about": "Маленькая Шарлотта является создательницей сайта, на котором вы сейчас находитесь",
+            "pfp": "charlotte",
+            "contacts": [
+                {
+                    "text": "Discord: wiltshire_t"
+                }
+            ]
+        },
+        {
+            "name": "Banan",
+            "about": "Банан является модератором дискорд сервера. Выдавать вам предупреждения — его стихия",
+            "pfp": "banan",
+            "contacts": [
+                {
+                    "text": "Discord: banan_ahaha"
+                }
+            ]
+        },
+        {
+            "name": "Waira",
+            "about": "Waira является модератором дискорд сервера и модератором челенджлиста. Если вам потребуется отправить свой прогресс конкретному человеку, вы знаете кому можете это сделать",
+            "pfp": "waira",
+            "contacts": [
+                {
+                    "text": "Discord: agropotion"
+                }
+            ]
+        },
+        {
+            "name": "Pacплюшко",
+            "about": "Pacплюшко является модератором дискорд сервера. Выдавать вам предупреждения — его стихия",
+            "pfp": "razplushka",
+            "contacts": [
+                {
+                    "text": "Discord: razplushka"
+                }
+            ]
+        },
+        {
+            "name": "ООО «РН-Ванкор»",
+            "about": "Менеджер канала (Нужно подробности)",
+            "pfp": "janaas",
+            "contacts": [
+                {
+                    "text": "Discord: janaas"
+                }
+            ]
+        }
+    ]
+}

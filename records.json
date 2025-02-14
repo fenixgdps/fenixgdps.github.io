@@ -1,0 +1,25 @@
+{
+    "records": [
+        {
+            "userName": "Wiltshire",
+            "url": "url",
+            "lvlid": 1,
+            "listname": "demonlist",
+            "levelName": "ab"
+        },
+        {
+            "userName": "aboba",
+            "url": "url",
+            "lvlid": 1,
+            "listname": "demonlist",
+            "levelName": "ab"
+        },
+        {
+            "userName": "aboba",
+            "url": "url",
+            "lvlid": 837,
+            "listname": "challengelist",
+            "levelName": "howto"
+        }
+    ]
+}

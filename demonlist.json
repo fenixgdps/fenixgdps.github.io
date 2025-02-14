@@ -1,0 +1,18 @@
+{
+    "levels": [
+        {
+            "name": "HI MY NAME XXD",
+            "verificator": "XXD",
+            "author": "XXD",
+            "lvlid": 1,
+            "points": 425
+        },
+        {
+            "name": "HI MY NAME XXD",
+            "verificator": "XXD",
+            "author": "XXD",
+            "lvlid": 2,
+            "points": 200
+        }
+    ]
+}
