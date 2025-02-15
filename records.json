@@ -1,25 +1,18 @@
 {
     "records": [
         {
-            "userName": "Wiltshire",
-            "url": "url",
-            "lvlid": 1,
-            "listname": "demonlist",
-            "levelName": "ab"
+            "userName": "ilove52btw",
+            "url": "https://youtu.be/1ebym-L-xws?si=za6T4koMYy5tPgFo",
+            "lvlid": 731,
+            "listname": "challengelist",
+            "levelName": "shiping"
         },
         {
-            "userName": "aboba",
-            "url": "url",
-            "lvlid": 1,
-            "listname": "demonlist",
-            "levelName": "ab"
-        },
-        {
-            "userName": "aboba",
-            "url": "url",
+            "userName": "Dark",
+            "url": "https://www.youtube.com/watch?v=QsyNf-QkV4Y",
             "lvlid": 837,
             "listname": "challengelist",
-            "levelName": "howto"
+            "levelName": "Demon wave"
         }
     ]
 }
