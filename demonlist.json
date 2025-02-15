@@ -1,18 +1,102 @@
 {
     "levels": [
         {
-            "name": "HI MY NAME XXD",
-            "verificator": "XXD",
-            "author": "XXD",
-            "lvlid": 1,
-            "points": 425
+            "name": "Emerald saw",
+            "verificator": "Noobofhell",
+            "author": "Noobofhell",
+            "lvlid": 304,
+            "points": 500
         },
         {
-            "name": "HI MY NAME XXD",
-            "verificator": "XXD",
-            "author": "XXD",
-            "lvlid": 2,
-            "points": 200
+            "name": "Mememememory",
+            "verificator": "znxxt",
+            "author": "znxxt",
+            "lvlid": 506,
+            "points": 500
+        },
+        {
+            "name": "Some Memory",
+            "verificator": "znxxt",
+            "author": "znxxt",
+            "lvlid": 169,
+            "points": 500
+        },
+        {
+            "name": "untitled beat",
+            "verificator": "znxxt",
+            "author": "znxxt",
+            "lvlid": 246,
+            "points": 500
+        },
+        {
+            "name": "Dungion II",
+            "verificator": "Temo4ax333GD",
+            "author": "Temo4ax333GD",
+            "lvlid": 766,
+            "points": 500
+        },
+        {
+            "name": "Dima",
+            "verificator": "znxxt",
+            "author": "znxxt",
+            "lvlid": 96,
+            "points": 500
+        },
+        {
+            "name": "lotus",
+            "verificator": "znxxt",
+            "author": "znxxt",
+            "lvlid": 191,
+            "points": 500
+        },
+        {
+            "name": "RedShift",
+            "verificator": "znxxt",
+            "author": "znxxt",
+            "lvlid": 233,
+            "points": 500
+        },
+        {
+            "name": "ExploreTheCore",
+            "verificator": "znxxt",
+            "author": "znxxt & tokyoinstinct",
+            "lvlid": 626,
+            "points": 500
+        },
+        {
+            "name": "Ne 3uma",
+            "verificator": "BekarsGD",
+            "author": "BekarsGD",
+            "lvlid": 251,
+            "points": 500
+        },
+        {
+            "name": "StarRate",
+            "verificator": "RozetkaGD",
+            "author": "RozetkaGD",
+            "lvlid": 580,
+            "points": 500
+        },
+        {
+            "name": "Gargartus",
+            "verificator": "Den4ik",
+            "author": "Den4ik",
+            "lvlid": 37,
+            "points": 500
+        },
+        {
+            "name": "WhymeWhymeWhyme",
+            "verificator": "BekarsGD",
+            "author": "BekarsGD",
+            "lvlid": 334,
+            "points": 500
+        },
+        {
+            "name": "Congregation",
+            "verificator": "Den4ik",
+            "author": "Den4ik",
+            "lvlid": 39,
+            "points": 500
         }
     ]
 }
