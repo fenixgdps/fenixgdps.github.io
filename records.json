@@ -90,6 +90,13 @@
             "lvlid": 111,
             "listname": "challengelist",
             "levelName": "HATE"
+        },
+        {
+            "userName": "Dark",
+            "url": "https://www.youtube.com/watch?v=77s_kd6Y914",
+            "lvlid": 1088,
+            "listname": "challengelist",
+            "levelName": "Light and Darkness"
         }
     ]
 }
