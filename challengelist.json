@@ -1,6 +1,13 @@
 {
     "levels": [
         {
+            "name": "Light and Darkness",
+            "verificator": "Dark",
+            "author": "Dark",
+            "lvlid": 1088,
+            "points": 525
+        },
+        {
             "name": "Demon wave",
             "verificator": "Dark",
             "author": "Dark",
