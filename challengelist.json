@@ -1,6 +1,13 @@
 {
     "levels": [
         {
+            "name": "Galaxy Ship",
+            "verificator": "Dark",
+            "author": "Dark",
+            "lvlid": 1274,
+            "points": 550
+        },
+        {
             "name": "Light and Darkness",
             "verificator": "Dark",
             "author": "Dark",
