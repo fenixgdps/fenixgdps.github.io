@@ -1,6 +1,13 @@
 {
     "levels": [
         {
+            "name": "Aboba saw",
+            "verificator": "Noobofhell",
+            "author": "Noobofhell",
+            "lvlid": 304,
+            "points": 500
+        },
+        {
             "name": "Emerald saw",
             "verificator": "Noobofhell",
             "author": "Noobofhell",
