@@ -139,6 +139,20 @@
             "lvlid": 304,
             "listname": "demonlist",
             "levelName": "Emerald saw"
+        },
+        {
+            "userName": "Zelanya",
+            "url": "https://www.youtube.com/watch?v=aoGuXPk_FjE",
+            "lvlid": 175,
+            "listname": "challengelist",
+            "levelName": "TDWBS challenge"
+        },
+        {
+            "userName": "Zelanya",
+            "url": "https://www.youtube.com/watch?v=kHccDQPKKsU",
+            "lvlid": 560,
+            "listname": "challengelist",
+            "levelName": "ball challenge"
         }
     ]
 }
