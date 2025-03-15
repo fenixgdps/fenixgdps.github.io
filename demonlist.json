@@ -1,13 +1,6 @@
 {
     "levels": [
         {
-            "name": "Death country",
-            "verificator": "External",
-            "author": "Fredeo",
-            "lvlid": 1524,
-            "points": 525
-        },
-        {
             "name": "Emerald saw",
             "verificator": "Noobofhell",
             "author": "Noobofhell",
