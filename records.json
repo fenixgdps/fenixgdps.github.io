@@ -147,5 +147,40 @@
             "listname": "challengelist",
             "levelName": "ball challenge"
         }
+        {
+            "userName": "Dark",
+            "url": "https://www.youtube.com/watch?v=-W-LYfMZUC4",
+            "lvlid": 262,
+            "listname": "demonlist",
+            "levelName": "HyperFall"
+        },
+        {
+            "userName": "Dark",
+            "url": "https://www.youtube.com/watch?v=pDySOkq4DHY",
+            "lvlid": 256,
+            "listname": "demonlist",
+            "levelName": "Hooked me"
+        },
+        {
+            "userName": "Dark",
+            "url": "https://www.youtube.com/watch?v=0EvZYnAV6eM",
+            "lvlid": 777,
+            "listname": "demonlist",
+            "levelName": "FINALE"
+         }, 
+         {
+            "userName": "Dark",
+            "url": "https://www.youtube.com/watch?v=V8i2KNn0B6I",
+            "lvlid": 246,
+            "listname": "demonlist",
+            "levelName": "untitled beat"
+         }, 
+         {
+            "userName": "Dark",
+            "url": "https://www.youtube.com/watch?v=5B2A7s1b0is",
+            "lvlid": 1757,
+            "listname": "demonlist",
+            "levelName": "Hate Everything"
+         }
     ]
 }
