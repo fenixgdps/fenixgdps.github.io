@@ -1,6 +1,13 @@
 {
     "levels": [
         {
+            "name": "ZNXXTBreaker!",
+            "verificator": "znxxt",
+            "author": "Tem4ik333GD",
+            "lvlid": 1777,
+            "points": 525
+        },
+        {
             "name": "Emerald saw",
             "verificator": "Noobofhell",
             "author": "Noobofhell",
