@@ -43,32 +43,47 @@
             "points": 450
         },
         {
+            "name": "777",
+            "verificator": "nfonk",
+            "author": "nfonk",
+            "lvlid": 1827,
+            "points": 425
+        },
+        {
             "name": "HI MY NAME XXD",
             "verificator": "XXD",
             "author": "XXD",
             "lvlid": 751,
-            "points": 425
+            "points": 400
         },
         {
             "name": "TDWBS challenge",
             "verificator": "Penis",
             "author": "Penis",
             "lvlid": 175,
-            "points": 400
+            "points": 375
         },
         {
             "name": "shiping",
             "verificator": "ilove52btw",
             "author": "ilove52btw",
             "lvlid": 731,
-            "points": 375
+            "points": 350
+         },
+         {
+            "name": "16 seconds hell",
+            "verificator": "nfonk",
+            "author": "nfonk",
+            "lvlid": 1880,
+            "points": 325
         },
         {
             "name": "ball challenge",
             "verificator": "Kek",
             "author": "XXD",
             "lvlid": 560,
-            "points": 350
+            "points": 300
         }
+       
     ]
 }
