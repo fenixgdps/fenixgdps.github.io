@@ -64,6 +64,13 @@
             "points": 375
         },
         {
+            "name": "16 seconds hell",
+            "verificator": "nfonk",
+            "author": "nfonk",
+            "lvlid": 1880,
+            "points": 350
+        },
+        {
             "name": "shiping",
             "verificator": "ilove52btw",
             "author": "ilove52btw",
@@ -71,19 +78,12 @@
             "points": 350
          },
          {
-            "name": "16 seconds hell",
-            "verificator": "nfonk",
-            "author": "nfonk",
-            "lvlid": 1880,
-            "points": 325
-        },
-        {
             "name": "ball challenge",
             "verificator": "Kek",
             "author": "XXD",
             "lvlid": 560,
             "points": 300
-        }
+         }
        
     ]
 }
